@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '712'
     url: http://www.gutenberg.org/2009/agents/712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28276#The-End-of-the-Rainbow
 gutenberg_issued: '2009-03-08'
 gutenberg_type: Text
 identifiers:
